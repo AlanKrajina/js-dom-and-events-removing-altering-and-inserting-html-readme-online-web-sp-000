@@ -16,7 +16,7 @@ JavaScript tools that will help us out.
 
 ### `document.createElement()`
 
-Creating an element in JavaScript couldn't be easier. Simply call
+Creating an element in JavaScript couldnt be easier. Simply call
 `document.createElement(tagName)`, where `tagName` is the string representation
 of any valid HTML tag (e.g., `'p'`, `'div'`, `'span'`, etc.).
 
